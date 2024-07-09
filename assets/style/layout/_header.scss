@@ -1,0 +1,10 @@
+@use "./settings";
+
+header {
+  height: 100vh;
+  background: url(/assets/img/bg-slider-06.jpg) center/cover;
+  color: settings.$whithe1;
+  img {
+    width: 24px;
+  }
+}
